@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://bd54bulneh1ty"]
+
+[node name="Level1" type="Node2D"]
+
+[node name="Skeleton2D" type="Skeleton2D" parent="."]
+
+[node name="Bone2D" type="Bone2D" parent="Skeleton2D"]
+
+[node name="Bone2D2" type="Bone2D" parent="Skeleton2D"]
